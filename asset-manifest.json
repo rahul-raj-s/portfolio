@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/rajsrivastvaa.github.io/portfolio/static/css/main.89a9b9b2.chunk.css",
+    "main.js": "/rajsrivastvaa.github.io/portfolio/static/js/main.c1487d5d.chunk.js",
+    "main.js.map": "/rajsrivastvaa.github.io/portfolio/static/js/main.c1487d5d.chunk.js.map",
+    "runtime-main.js": "/rajsrivastvaa.github.io/portfolio/static/js/runtime-main.f4911004.js",
+    "runtime-main.js.map": "/rajsrivastvaa.github.io/portfolio/static/js/runtime-main.f4911004.js.map",
+    "static/css/2.de424728.chunk.css": "/rajsrivastvaa.github.io/portfolio/static/css/2.de424728.chunk.css",
+    "static/js/2.5ea9ee4d.chunk.js": "/rajsrivastvaa.github.io/portfolio/static/js/2.5ea9ee4d.chunk.js",
+    "static/js/2.5ea9ee4d.chunk.js.map": "/rajsrivastvaa.github.io/portfolio/static/js/2.5ea9ee4d.chunk.js.map",
+    "index.html": "/rajsrivastvaa.github.io/portfolio/index.html",
+    "precache-manifest.b32f599e0eec42fc89adf9cb10a992ca.js": "/rajsrivastvaa.github.io/portfolio/precache-manifest.b32f599e0eec42fc89adf9cb10a992ca.js",
+    "service-worker.js": "/rajsrivastvaa.github.io/portfolio/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/rajsrivastvaa.github.io/portfolio/static/css/2.de424728.chunk.css.map",
+    "static/css/main.89a9b9b2.chunk.css.map": "/rajsrivastvaa.github.io/portfolio/static/css/main.89a9b9b2.chunk.css.map",
+    "static/js/2.5ea9ee4d.chunk.js.LICENSE.txt": "/rajsrivastvaa.github.io/portfolio/static/js/2.5ea9ee4d.chunk.js.LICENSE.txt",
+    "static/media/RahulProfilePic.jpeg": "/rajsrivastvaa.github.io/portfolio/static/media/RahulProfilePic.09ba6fa6.jpeg",
+    "static/media/github.png": "/rajsrivastvaa.github.io/portfolio/static/media/github.d22ee372.png",
+    "static/media/gmail.png": "/rajsrivastvaa.github.io/portfolio/static/media/gmail.2c1a7560.png",
+    "static/media/instagram.png": "/rajsrivastvaa.github.io/portfolio/static/media/instagram.26631a40.png",
+    "static/media/linkedin.png": "/rajsrivastvaa.github.io/portfolio/static/media/linkedin.94db7e92.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4911004.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.5ea9ee4d.chunk.js",
+    "static/css/main.89a9b9b2.chunk.css",
+    "static/js/main.c1487d5d.chunk.js"
+  ]
+}
