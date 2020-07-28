@@ -1,0 +1,27 @@
+.socialMediacontainer {
+  height: 35px;
+  padding: 5px;
+  display: flex;
+  width: 200px;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid white;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: auto;
+}
+.socialMediacontainer:hover {
+  border: none;
+  box-shadow: 0 6px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.socialMediacontainer img:hover {
+  height: 50px;
+  width: 50px;
+}
+.socialMediacontainer img {
+  height: 25px;
+  width: 25px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: none;
+}
